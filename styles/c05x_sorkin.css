@@ -1,0 +1,73 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    margin: 0 auto;
+}
+section
+{
+	background: yellow;
+	padding-bottom: 5%;
+     padding-top: 5%;
+     padding-right: 3%;
+}
+#one{
+	border: 10px double blue;
+	width: 90%;
+	height: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	background: white;
+}
+#two
+{
+	border: 5px blue;
+	width: 98.5%;
+	margin-left: calc(2% - 5px);
+	margin-right: calc(2% - 5px);
+	height: 98.5%;
+	margin-top: calc(5% - 5px);
+	margin-bottom: calc(5% - 5px);
+	background: transparent;
+}
+#two h1{
+	font-size: 150%;
+	text-indent: 2%;
+	color: blue;
+}
+#two h3{
+	font-size: 115%;
+	text-indent: 2%;
+}
+#two img{
+    float:left;
+    padding-right: 0.75em;
+    padding-bottom: 0.75em;
+	margin-left: 2%;
+}
+#two p{
+	text-indent: 5%;
+	text-align: left;
+}
+#two h2{
+	font-weight: bold;
+	text-indent: 2%;
+}
+#two h4{
+	font-size: 125%;
+	color: blue;
+	text-align: right;
+	margin-right: 2%;
+}
+#two h6{
+	border-top: 5px solid blue;
+  	height: 96%;
+  	margin-left: 2%;
+  	margin-right: 2%;
+    font-weight: bold;
+    font-size: 90%;
+}
+#two h5{
+	text-align: center;
+	font-weight: bold;
+}
